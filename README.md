@@ -118,4 +118,4 @@ Built as a learning project during **Stanford Code in Place**, an introductory p
 
 BS Data Science Undergraduate
 
-[LinkedIn](https://www.linkedin.com/in/usman-shakir7/) | [GitHub](https://github.com/Usmanshakir7)
+[LinkedIn](https://www.linkedin.com/in/usman-shakir7/) | [GitHub](https://github.com/Usmanshakir7)  | [Threads](https://www.threads.com/@ch.m.usman_shakir)
