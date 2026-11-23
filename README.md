@@ -1,10 +1,10 @@
-# 🤖 Python AI Chatbot
+# Python AI Chatbot
 
 A simple command-line AI chatbot built with Python as part of my learning journey in **Stanford Code in Place**.
 
 This project uses GPT to generate responses, remembers previous messages during a conversation, and supports customizable AI personalities.
 
-## 🚀 Features
+## Features
 
 - **AI-Powered Chat:** Communicate with GPT through the terminal.
 - **Conversation Memory:** Maintains chat history so the bot can respond using previous messages.
@@ -12,14 +12,14 @@ This project uses GPT to generate responses, remembers previous messages during 
 - **Peek Command:** Type `peek` to view the saved conversation history.
 - **Interactive Chat:** Continue chatting until you press Enter without typing anything.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - GPT through Stanford Code in Place's `ai` module
 - Python lists and dictionaries
 - Functions, loops, and conditional statements
 
-## ⚙️ How It Works
+## How It Works
 
 1. The user enters a message.
 2. The program stores the message in a conversation history list.
@@ -30,7 +30,7 @@ This project uses GPT to generate responses, remembers previous messages during 
 
 This process continues until the user presses Enter.
 
-## 💻 Example
+## Example
 
 ```text
 Chat with the bot! (press Enter to quit)
@@ -49,7 +49,7 @@ You:
 
 *AI-generated responses may vary.*
 
-## 🔍 Peek Command
+## Peek Command
 
 The `peek` command displays the conversation history.
 
@@ -66,7 +66,7 @@ You: peek
 
 The system message is included in the stored history, but is not displayed during normal chatting.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Python-AI-Chatbot/
@@ -77,7 +77,7 @@ Python-AI-Chatbot/
 
 The project uses an `ai` module provided by the Stanford Code in Place learning environment.
 
-## ▶️ Running the Project
+## Running the Project
 
 This project was developed using the **Stanford Code in Place Python environment**.
 
@@ -88,7 +88,7 @@ This project was developed using the **Stanford Code in Place Python environment
 
 **Note:** The `ai` module is not part of standard Python. Running this project locally in VS Code requires a compatible implementation of `call_gpt()`.
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I practiced:
 
@@ -100,7 +100,7 @@ Through this project, I practiced:
 - Understanding system messages and AI personalities
 - Reusing functions to build larger applications
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add multiple selectable chatbot personalities.
 - Save conversation history to a file.
@@ -108,11 +108,11 @@ Through this project, I practiced:
 - Support loading previous conversations.
 - Integrate a standalone AI API for local execution.
 
-## 🎓 Acknowledgment
+## Acknowledgment
 
 Built as a learning project during **Stanford Code in Place**, an introductory programming course offered by Stanford University.
 
-## 👨‍💻 Author
+## ‍ Author
 
 **Usman Shakir**
 
